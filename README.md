@@ -90,7 +90,7 @@
     <h3>Redes Sociais</h3>
     <a href="https://github.com/CamiihCosta" target="-blank" >Visit github!
        CamilaCosta
-    </a>
+    </a><br>
 
     <a href="https://www.linkedin.com/in/camila-costa-354470270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"target="-blank">visit linkedin!
        CamilaCosta
